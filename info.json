@@ -1,0 +1,47 @@
+{
+ "modelo": "Random Forest",
+ "rmse": 668180.562489993,
+ "mae": 289131.31120886497,
+ "r2": 0.3826662310358111,
+ "opciones": {
+  "locality": [
+   "Bridgeport",
+   "Desconocida",
+   "Fairfield",
+   "Greenwich",
+   "Norwalk",
+   "Stamford",
+   "Waterbury",
+   "West Hartford"
+  ],
+  "property": [
+   "Four Family",
+   "Single Family",
+   "Three Family",
+   "Two Family"
+  ],
+  "residential": [
+   "Detached House",
+   "Duplex",
+   "Fourplex",
+   "Triplex"
+  ],
+  "face": [
+   "East",
+   "North",
+   "South",
+   "West"
+  ]
+ },
+ "ultima_fecha": "2022-09-30",
+ "mediana_localidad": {
+  "Bridgeport": 163750.0,
+  "Desconocida": 332640.0,
+  "Fairfield": 550000.0,
+  "Greenwich": 1631000.0,
+  "Norwalk": 450000.0,
+  "Stamford": 556000.0,
+  "Waterbury": 105000.0,
+  "West Hartford": 305000.0
+ }
+}
