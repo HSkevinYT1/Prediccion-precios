@@ -17,7 +17,7 @@ modelo = joblib.load(CARPETA / "modelo.joblib")
 info = json.load(open(CARPETA / "info.json", encoding="utf-8"))
 op = info["opciones"]
 
-st.title("🏠 Predicción del precio de una propiedad")
+st.title(" Predicción del precio de una propiedad")
 st.caption(f"Modelo: {info['modelo']} · R² {info['r2']:.2f} · error promedio ${info['mae']:,.0f}")
 
 # 1. Entrada de datos del usuario
