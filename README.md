@@ -2,7 +2,7 @@
 
 Proyecto de Inteligencia Artificial — UNAB. Predice el precio de venta de una propiedad con regresión supervisada y lo muestra en una app de Streamlit.
 
-**App:** [pegar enlace de Streamlit] · **Dataset:** [Kaggle — Real Estate Property Transactions](https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset)
+**App:** [https://prediccion-precios-bfkcqwy2k5hjtmbehrrvno.streamlit.app/] · **Dataset:** [Kaggle — Real Estate Property Transactions](https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset)
 
 ## Archivos
 | Archivo | Qué es |
